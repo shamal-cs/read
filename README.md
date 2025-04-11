@@ -2,7 +2,7 @@
  
  🌱 Plant Seedling Classifier - Kaggle Notebook  
 🔗 [View on Kaggle](https://www.kaggle.com/code/shamal/plant-seedling-classifier)
-📊 Completed Kaggle Projects (with Links):
+
 📚 Google Books Dataset - Book Recommendation System
 🔗[View on Kaggle](kaggle.com/code/shamalxyd/google-books-dataset)
 
